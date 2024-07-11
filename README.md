@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-![Profile Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![Web Development Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkalburgi45&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkalburgi45" /> </p>
 
