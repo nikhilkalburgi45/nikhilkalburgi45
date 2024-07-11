@@ -1,11 +1,13 @@
 # 👋 Hello, I'm Nikhil Kalburgi
 
-![Profile Animation](https://i.gifer.com/7PlM.gif)
+![Profile Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ---
 
 ## About Me
 I'm a passionate developer currently honing my skills in the MERN stack with Next.js. I love creating innovative web applications and always strive to keep up with the latest technologies.
+
+![Coder Animation](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 
 ---
 
@@ -67,4 +69,4 @@ Thank you for visiting my profile. Let's build something amazing together! 🚀
 
 ---
 
-![Footer Animation](https://i.gifer.com/YCZH.gif)
+![Footer Animation](https://media.giphy.com/media/l3q2XhfQ8oCkm1Ts4/giphy.gif)
