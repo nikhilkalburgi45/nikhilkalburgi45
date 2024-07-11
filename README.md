@@ -40,13 +40,4 @@ Hi 👋, I'm Nikhil
 
 ![Footer Animation](https://media.giphy.com/media/l3q2XhfQ8oCkm1Ts4/giphy.gif)
 
-<style>
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-  span {
-    display: inline-block;
-    animation: fadeIn 2s;
-  }
-</style>
+
