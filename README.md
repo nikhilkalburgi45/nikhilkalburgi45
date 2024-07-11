@@ -1,4 +1,4 @@
-# 👋 Hello, I'm <span style="color: #00ffff; animation: fadeIn 2s; font-family: 'Cursive';">Nikhil Kalburgi</span>
+# 👋 Hello, I'm <span style="color: #00ffff; font-family: 'Cursive';">Nikhil Kalburgi</span>
 
 ![Web Development Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
@@ -76,5 +76,6 @@ Thank you for visiting my profile. Let's build something amazing together! 🚀
   }
   span {
     display: inline-block;
+    animation: fadeIn 2s;
   }
 </style>
