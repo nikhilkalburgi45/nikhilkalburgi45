@@ -1,11 +1,13 @@
-# 👋 Hello, I'm <span style="color: #00ffff; font-family: 'Cursive';">Nikhil Kalburgi</span>
+# 👋 Hello, I'm Nikhil Kalburgi
 
-![Web Development Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Profile Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ---
 
 ## About Me
 I'm a passionate developer currently honing my skills in the MERN stack with Next.js. I love creating innovative web applications and always strive to keep up with the latest technologies.
+
+![Coder Animation](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 
 ---
 
@@ -68,14 +70,3 @@ Thank you for visiting my profile. Let's build something amazing together! 🚀
 ---
 
 ![Footer Animation](https://media.giphy.com/media/l3q2XhfQ8oCkm1Ts4/giphy.gif)
-
-<style>
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-  span {
-    display: inline-block;
-    animation: fadeIn 2s;
-  }
-</style>
