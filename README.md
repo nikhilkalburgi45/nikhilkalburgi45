@@ -1,8 +1,6 @@
 Hi 👋, I'm Nikhil
 
 
-![Web Development Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkalburgi45&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkalburgi45" /> </p>
 
 
