@@ -1,4 +1,4 @@
-# Hi there! 👋
+Hi there! 👋
 -  I’m @nikhilkalburgi45
 - 👀 I’m interested in ... web dev
 - 🌱 I’m currently learning ... next.Js
