@@ -1,5 +1,5 @@
-# Hi there! 👋
-- I’m ##nikkkhil
+Hi there! 👋
+- I’m ## nikkkhil
 - 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ... Next.js
 - 📫 How to reach me ... nikhilkalburgi21@gmail.com
