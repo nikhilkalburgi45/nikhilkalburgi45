@@ -1,10 +1,8 @@
-Hi there! 👋
--  I’m @nikhilkalburgi45
-- 👀 I’m interested in ... web dev
-- 🌱 I’m currently learning ... next.Js
+# Hi there! 👋
+- I’m ##nikkkhil
+- 👀 I’m interested in ... web development
+- 🌱 I’m currently learning ... Next.js
 - 📫 How to reach me ... nikhilkalburgi21@gmail.com
+- 🌐 [LinkedIn](https://linkedin.com/in/nikhil-kalburgi)
 
----
-![Footer Animation](https://media.giphy.com/media/l3q2XhfQ8oCkm1Ts4/giphy.gif)
-
-
+![Web Dev Animation](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
