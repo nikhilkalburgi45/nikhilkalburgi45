@@ -1,6 +1,6 @@
-Hi there! 👋
+>Hi there! 👋
 - I’m nikkkhil
-- 👀 I’m interested in ... web development
+- 👀 I’m interested in ... web dev
 - 🌱 I’m currently learning ... Next.js
 - 📫 How to reach me ... nikhilkalburgi21@gmail.com
 - 🌐 [LinkedIn](https://linkedin.com/in/nikhil-kalburgi)
