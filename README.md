@@ -1,6 +1,5 @@
 # Hi there! 👋  
 I'm **Nikhil Kalburgi**  
-![Web Dev Animation](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ---
 
@@ -55,3 +54,4 @@ I'm **Nikhil Kalburgi**
 - 🌐 Portfolio: [nikkhil45.vercel.app](https://nikkhil45.vercel.app/)
 
 ---
+![Web Dev Animation](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
