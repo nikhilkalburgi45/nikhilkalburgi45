@@ -9,6 +9,12 @@ I'm **Nikhil Kalburgi**
 - 🎯 Curious about **Cloud Integration** and **Software Scalability**.
 
 ---
+## 📫 Reach Me
+- 🌐 Portfolio: [nikkhil45.vercel.app](https://nikkhil45.vercel.app/)
+- 📧 Email: [nikhilkalburgi21@gmail.com](mailto:nikhilkalburgi21@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/nikhilkalburgi](https://linkedin.com/in/nikhilkalburgi)
+- 🛠️ GitHub: [github.com/nikhilkalburgi45](https://github.com/nikhilkalburgi45)
+---
 
 ## 🛠️ Tech Stack
 <p align="center">
@@ -19,9 +25,8 @@ I'm **Nikhil Kalburgi**
 
 ## 🏆 Certifications
 - 📚 IBM Database and SQL Certification (Aug 2023)
-- 📚 Meta Frontend Development Certification (July 2023)
+- 📚 Meta Frontend Development Certification (July 2023
 - 🏅 LeetCode SQL 50+ Badge Holder
-- 🏅 HackerRank SQL Basic & Intermediate Badges (Top 10%)
 
 ---
 
@@ -44,14 +49,6 @@ I'm **Nikhil Kalburgi**
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilkalburgi45&theme=radical" alt="Nikhil's GitHub Streak" />
 </p>
-
----
-
-## 📫 Reach Me
-- 📧 Email: [nikhilkalburgi21@gmail.com](mailto:nikhilkalburgi21@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/nikhilkalburgi](https://linkedin.com/in/nikhilkalburgi)
-- 🛠️ GitHub: [github.com/nikhilkalburgi45](https://github.com/nikhilkalburgi45)
-- 🌐 Portfolio: [nikkhil45.vercel.app](https://nikkhil45.vercel.app/)
 
 ---
 ![Web Dev Animation](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
